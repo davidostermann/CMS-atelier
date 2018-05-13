@@ -1,41 +1,29 @@
-# CMS-atelier
+# Atelier CMS
 
-## Intro
+## CMS
 
-Un CMS (Content Management System) est une solution tout-en-un permettant de mettre en place un site internet avec un système de gestion de contenu de façon simple et rapide.
+Voir [CMS](./CMS.md)
 
-Tous les CMS comprennent une interface de gestion de contenu sécurisé : un back-office.
+## JAMStack, Headless CMS et static site generator
 
-Il existe des centaines de CMS dans de multiples languages. Ils ont des capacités différentes et pour certains la possibilité d'être étendu par des systèmes de plugin.
+Voir [JAM Stack](./jamstack.md)
 
-Les fonctionnalités principales d'un CMS :
+## Strapi
 
-- Création et édition de contenu
-- Rich-text editor (RTE)
-- Gestion des medias (images, vidéos, ...)
-- Gestion des utilisateurs
+Voir [Strapi](./strapi.md)
 
-Quelques spécificités souvent attendues :
+## Gatsby
 
-- blogging
-- e-commerce
-- systèmes évoluées de gestion utilisateur
-- SEO
-- multilingues
-- moteur de recherche
-- Planification des publication
-- création de formulaire de saisi
+Voir [Gatsby](./gatsby.md)
 
-Le plus connu des CMS est Wordpress. C'est, à la base, une plateforme de blogging. Grâce à ses systèmes de thèmes et plugins, on peut faire des site e-commerce, des systèmes évoluées de gestion utilisateur, etc. Mais ce n'est pas toujours la solution idéale à tous les besoins.
+## Atelier guidé : blog
 
-Choisir un CMS dépends donc des besoins du site à mettre en place et des moyens de déploiement.
+Voir [Atelier guidé](./atelier.guide.md)
 
-Quelques CMS :
+## Atelier non-guidé : e-commerce
 
-- php : Wordpress, Magento, Prestashop, Drupal, [CMS utilisant Symfony](https://symfony.com/projects/category/cms), ...
-- java : [Lifefray](https://www.liferay.com/), [Magnolia](https://www.magnolia-cms.com/), ...
-- .NET, C# : [Kentico](https://www.kentico.com/), [Sitefinity](https://www.sitefinity.com/), ...
-- python :  [Django](https://www.django-cms.org/en/), ...
-- erlang [Zotonic](http://zotonic.com/), ...
-- NodeJS [Ghost](https://ghost.org), [Keystone](http://keystonejs.com/), [Strapi](https://strapi.io), ...
-- autres solutions connues : [Weebly](https://www.weebly.com), [Wix](https://wix.com/), ...
+Voir [brief1](./brief1.md)
+
+## Atelier non-guidé : porfolio (case studies)
+
+Voir [brief1](./brief2.md)
