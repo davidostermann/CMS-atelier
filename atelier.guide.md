@@ -42,7 +42,8 @@ Créer un système de blog
 - title (string) [required]
 - resume (string) [required]
 - content (text)
-- author (user) [one-to-many] [required]
+- author (User) [one-to-many] [required]
+- tags (Tag) [many-to-many]
 
 ### tag
 
